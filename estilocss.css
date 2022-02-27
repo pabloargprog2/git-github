@@ -1,0 +1,16 @@
+.opcion1 {
+    color: red;
+}
+.csspie {
+    font-size:2cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1;
+    font-weight: 100;
+    background-color: aqua;
+    display: block;
+    margin:5px;
+    border: 10px solid red;
+}
+.enlinea {
+    display:inline;
+}
